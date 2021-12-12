@@ -1,16 +1,24 @@
-### Hi there 👋
+### 2096779623 👋
 
-<!--
-**2096779623/2096779623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👀 I’m interested Termux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> Termux lover
+
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=2096779623&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dracula">
+</a>
+
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2096779623&layout=compact">
+</a>
+
+
+Hi, glad to meet you~
+
+
+Here is 2096779623, a student from Qingyuan, China.
+
