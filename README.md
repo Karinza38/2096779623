@@ -17,6 +17,9 @@
 </a>
 
 
+[![2096779623](https://github-profile-trophy.vercel.app/?username=2096779623&theme=onedark)](https://github.com/2096779623)
+
+
 Hi, glad to meet you~
 
 
