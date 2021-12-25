@@ -1,6 +1,6 @@
 ### 2096779623 👋
 
-![](https://count.getloli.com/get/@xiaoyou66.github.readme)
+![](https://count.getloli.com/get/@2096779623.github.readme)
 
 
 - 👀 I’m interested Termux
