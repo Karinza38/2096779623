@@ -1,5 +1,7 @@
 ### 2096779623 👋
 
+![](https://count.getloli.com/get/@xiaoyou66.github.readme)
+
 
 - 👀 I’m interested Termux
 
