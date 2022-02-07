@@ -34,9 +34,9 @@ Here is 2096779623, a student from Qingyuan, China.
 My website：
 
 
-[blog](https://blog.utermux.eu.org?utm_source=github)
+[blog](https://blog.utermux.dev?utm_source=github)
 
-[homepage](https://utermux.eu.org)
+[homepage](https://www.utermux.dev)
 
 
 Contact Me：
@@ -55,7 +55,7 @@ Contact Me：
 
 
 
-[![Mail](https://img.shields.io/badge/-admin@utermux.eu.org-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:admin@utermux.eu.org)
+[![Mail](https://img.shields.io/badge/-admin@utermux.dev-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:admin@utermux.dev)
 
 
 
