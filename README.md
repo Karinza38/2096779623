@@ -3,12 +3,9 @@
 ![](https://count.getloli.com/get/@2096779623.github.readme)
 
 
-- 👀 I’m interested Termux
-
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   
-  
-> Termux lover
+ 
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=2096779623&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dracula&locale=cn">
