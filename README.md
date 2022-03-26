@@ -46,14 +46,6 @@ Contact Me：
 [![Telegram](https://img.shields.io/badge/Telegram-@utermux_blog-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/utermux_blog)
 
 
-[![Tencent QQ](https://img.shields.io/badge/QQ-2096779623-00BFFF?logo=QQ&logoColor=white&style=for-the-badge)](https://wpa.qq.com/msgrd?v=3&uin=2096779623&site=qq&menu=yes)
-
-
-
-
-[![QQMail](https://img.shields.io/badge/-2096779623@qq.com-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:2096779623@qq.com)
-
-
 
 [![Mail](https://img.shields.io/badge/-admin@utermux.dev-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:admin@utermux.dev)
 
