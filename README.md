@@ -14,12 +14,12 @@
  <br>
  
 <a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2096779623&theme=dark&locale=cn">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2096779623&theme=dark">
 </a>
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2096779623&layout=compact&locale=cn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2096779623&layout=compact">
 </a>
 
 
