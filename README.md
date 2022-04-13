@@ -5,7 +5,7 @@
 
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   
- 
+ <div align="center"> <img src="https://metrics.lecoq.io/2096779623?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=2096779623&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=chartreuse-dark">
