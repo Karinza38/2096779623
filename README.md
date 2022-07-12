@@ -56,6 +56,6 @@ Contact Me：
 [![Mail](https://img.shields.io/badge/-admin@utermux.dev-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:admin@utermux.dev)
 
 
-# Sponsor me ❤️
+# Sponsor me ❤
 
 https://donate.utermux.dev
