@@ -5,7 +5,7 @@
 ![](https://count.getloli.com/get/@2096779623.github.readme)
 
 
-![manjaro kde](https://img.shields.io/badge/Manjaro-KDE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![manjaro kde](https://img.shields.io/badge/Manjaro-KDE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![archcraft](https://img.shields.io/badge/Archcraft-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
   
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)[![](https://img.shields.io/badge/Android-10-00E886?style=flat-square&logo=Android)](https://android.com/)
