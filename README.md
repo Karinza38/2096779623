@@ -9,8 +9,7 @@
 
   
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)[![](https://img.shields.io/badge/Android-10-00E886?style=flat-square&logo=Android)](https://android.com/)
-  
- <div align="center"> <img src="https://metrics.lecoq.io/2096779623?template=classic&config.timezone=Asia%2FShanghai"></div>
+
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=2096779623&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=chartreuse-dark">
@@ -30,6 +29,10 @@
 
 [![2096779623](https://github-profile-trophy.vercel.app/?username=2096779623&theme=onedark)](https://github.com/2096779623)
 
+<details>
+<summary>Metrics</summary>
+<img src="https://metrics.lecoq.io/2096779623?template=classic&repositories.forks=true&repositories=1&isocalendar=1&languages=1&stars=1&followup=1&people=1&gists=1&introduction=1&activity=1&achievements=1&stackoverflow=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=16&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=DreamOneX%2FLookitup&introduction.title=true&stackoverflow.user=16749861&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FShanghai alt="If the image fails to display, please refresh"></img>     
+</details>
 
 Hi, glad to meet you~
 
