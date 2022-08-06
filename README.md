@@ -36,8 +36,6 @@
 
 Hi, glad to meet you~
 
-<img src="https://wakatime.com/share/@2096779623/cca95b32-2743-4eba-b778-cf9dbfcd471f.svg"></img>
-
 Here is 2096779623, a student from Guangdong, China.
 
 My website：
