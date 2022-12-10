@@ -54,7 +54,7 @@ Contact Me：
 
 
 
-[![Mail](https://img.shields.io/badge/-admin@utermux.dev-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:admin@utermux.dev)
+[![Mail](https://img.shields.io/badge/-admin@utermux.dev-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:kevin8w@duck.com)
 
 # Sponsor me ♥
 
