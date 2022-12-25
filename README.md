@@ -8,7 +8,9 @@
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)[![](https://img.shields.io/badge/Android-10-00E886?style=flat-square&logo=Android)](https://android.com/)
 
 
-![](https://github-readme-stats.vercel.app/api?username=2096779623&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=chartreuse-dark) ![](https://github-readme-streak-stats.herokuapp.com/?user=2096779623&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2096779623&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite) ![](https://github-profile-trophy.vercel.app/?username=2096779623&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=2096779623&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=chartreuse-dark) ![](https://github-readme-streak-stats.herokuapp.com/?user=2096779623&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2096779623&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite) ![](https://github-profile-trophy.vercel.app/?username=2096779623&theme=onedark)
 
 <details>
 <summary>Metrics</summary>
@@ -26,7 +28,7 @@ My website：
 
 [homepage](https://www.utermux.dev)
 
-[My Music List](https://alist.utermux.dev/aliyun/music/lx_list_all.xlsx)
+[My Music List](https://alist.utermux.dev/aliyun/music/lx_list.xlsx)
 
 Contact Me：
 
