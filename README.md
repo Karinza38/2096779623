@@ -26,7 +26,7 @@ My website：
 
 [homepage](https://www.utermux.dev)
 
-![My Music List](https://alist.utermux.dev/aliyun/music/lx_list_all.xlsx)
+[My Music List](https://alist.utermux.dev/aliyun/music/lx_list_all.xlsx)
 
 Contact Me：
 
