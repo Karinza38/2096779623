@@ -39,5 +39,3 @@ Contact Me：
 # Sponsor me ♥
 
 https://donate.utermux.dev
-
-**Note: Temporary absence for seven days from the 24th.**
