@@ -24,7 +24,7 @@ Here is Kevin Williams, a student from Guangdong, China.
 My website：
 
 
-[Blog](https://blog.utermux.dev?utm_source=github)
+[Blog](https://hugo.utermux.dev?utm_source=github)
 
 [Homepage](https://www.utermux.dev)
 
