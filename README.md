@@ -10,7 +10,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=2096779623&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=chartreuse-dark) ![](https://github-readme-streak-stats.herokuapp.com/?user=2096779623&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2096779623&hide=css,scss,Dockerfile,Javascript,TypeScript,Vue,Less&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite) ![](https://github-profile-trophy.vercel.app/?username=2096779623&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2096779623&hide=css,scss,Dockerfile,Javascript,TypeScript,Vue,Less&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&count_private=true) ![](https://github-profile-trophy.vercel.app/?username=2096779623&theme=onedark)
 
 <details>
 <summary>Metrics</summary>
